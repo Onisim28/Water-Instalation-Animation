@@ -22,7 +22,7 @@ bazinul 2 isi va schimba pozitia, se va apropia catre acesta si acesta se va rot
 
 //variabile globale
 
-char title[] = "Final Project";
+char title[] = "Water Instalation";
 float cube1[6][3]; //Am creat aceasta matrice pentru a putea schimba si salva culoriile noi pe care le voi da cubului1
 float cube2[6][3]; //Am creat aceasta matrice pentru a putea schimba si salva culoriile noi pe care le voi da cubului2
 float rectangle[3]; //Am creat aceast vector pentru a putea schimba si salva culoriile noi pe care le voi da dreptunghiului
